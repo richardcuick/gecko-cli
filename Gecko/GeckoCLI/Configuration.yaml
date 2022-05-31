@@ -1,0 +1,3 @@
+﻿databaseConnectionString: Server=.;Database=myDataBase;
+uploadFolder: /uploads/
+approvedFileTypes : [.png, .jpeg, .jpg]
